@@ -10,3 +10,4 @@ Create the K8s EKS,further you have to do the deployment of the Nginx applicatio
 ![Screenshot 2024-11-04 203147](https://github.com/user-attachments/assets/83e0cbc0-2829-441d-814e-18ef542d955e)
 ![Screenshot 2024-11-04 204842](https://github.com/user-attachments/assets/59e88a01-8daf-40d8-9783-0cd1ccc17f70)
 ![Screenshot 2024-11-04 204952](https://github.com/user-attachments/assets/cc07d3cf-e9ab-4caa-a579-d490917559a0)
+![Screenshot 2024-11-04 210416](https://github.com/user-attachments/assets/aaabedd6-fdb2-4173-b431-948b17584e10)
